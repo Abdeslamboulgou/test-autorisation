@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+  }
+  
+  #control{
+    padding-bottom:10px;
+  }
+  #bouton{
+      background-color: rgb(123, 114, 248);
+      border-radius: 3px;
+      border: 0px;
+      padding: 4px;
+      cursor: pointer;
+  }
+  #bouton:hover{
+    background-color: rgb(187, 183, 250);
+    border-radius: 4px;
+    border: 0px;
+    padding: 4px;
+    color: blue ;
+    cursor: pointer;
+}
+  #message{
+      color: green;
+  }
+  #messageRefuse{
+      color: rgb(250, 40, 40);
+  }
